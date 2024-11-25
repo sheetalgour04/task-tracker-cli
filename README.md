@@ -1,6 +1,8 @@
 # Task Manager Application
 This application is a Task Manager implemented in Python, designed to track and manage tasks. It supports both command-line arguments (CLI) for direct task operations and an interactive menu for a user-friendly experience.
 
+## Project URL - https://roadmap.sh/projects/task-tracker
+
 ## Features
 
 - **Add, update, delete tasks** with ease.
